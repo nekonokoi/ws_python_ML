@@ -21,6 +21,6 @@ conda list
 ```
 jupyter notebook --ip 0.0.0.0 --port xxxx --no-browser
 ```
-https:env-name-user-name.cloud9.io
+https:env-name-user-name.c9users.io:xxxx/
 
 でアクセス可能

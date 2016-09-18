@@ -16,6 +16,6 @@ pip freeze
 conda install pandas
 conda install matplotlib
 conda install Jupyter notebook
-conda install sklearn
+conda install scikit-learn
 conda install scipy
 conda install seaborn
